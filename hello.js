@@ -4,7 +4,26 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello, World!");
+
+console.log("1. LOST");
+
+console.log("2. Code does not work without parentheses")
+
+console.log('3. We need both quatation marks');
+
+console.log("4. Code works fine without semi-colon")
+
+console.log("5. 4 8 15 16 23 42");
+
+console.log("5. Bonus. 8 + 15");
+
+console.log("6. What did one snowman say to the other?");
+console.log("- Smells like carrots.");
+
+console.log('"Roses are red, violets are blue. 4 8 15 16 23 42."');
+
+console.log("Don't tell me what I can't do!");
 
 /*  
 Next, PLAY! 

@@ -25,6 +25,8 @@ console.log('"Roses are red, violets are blue. 4 8 15 16 23 42."');
 
 console.log("Don't tell me what I can't do!");
 
+console.log("Let's check how GitHub Workflow works.")
+
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
